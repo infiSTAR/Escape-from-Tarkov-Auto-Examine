@@ -3,7 +3,7 @@
 New Account? Eft just wiped? Not a problem anymore! This one click code continously auto examines all items on a pre-selected Trader. Giving you free EXP & taking away the pain of having to examine items in raid. Not really detectable, you're safe to use this without being scared of getting banned.*
 
 ## Dependencies
-If you don't use the .exe version from the releases tab on the right; you'll have to manually install:
+If you don't want to use the .exe version from the releases tab on the right; you'll have to install python and run belown in cmd:
 
 	pip install pyautogui
 
