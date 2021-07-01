@@ -25,3 +25,5 @@ This bot uses picture recognition, so if it errors out saying it can't find a pi
 
 
 *Does not mean I take any responsibility if you get banned. All I'm saying is that it's insanely unlikely that you'll get banned for the usage of this. Since it's literally just using pictures to interact with the client and each movement and wait it does is randomised; meaning it's already avoiding fingerprinting. On top of that they would never ever care enough to ban a external picture recognition based bot lmao
+
+Dependant on how many people show me that they're liking the code by giving ⭐'s on this repo, I'll expand functionality & push more quality of life updates.🎉
