@@ -3,7 +3,10 @@ from random import uniform
 from pyautogui import center, click, moveTo, press, locateOnScreen, click, press, scroll, move
 from time import sleep as s
 
-print('Starting... You can press and hold Key F2 at any time to end.')
+print('If you like the code remember to star the Repo! https://github.com/Avnsx/Escape-from-Tarkov-Auto-Examine')
+s(1)
+print('Starting... make sure you are tabbed in on EFT!\nYou can press and hold Key F2 at any time to end.')
+s(4)
 
 def examine_item():
 	for image in ['img_samples/blackgrey.png','img_samples/questionmark.png']:
