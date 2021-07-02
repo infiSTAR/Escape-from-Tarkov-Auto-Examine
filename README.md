@@ -6,6 +6,7 @@ New Account? Eft just wiped? Not a problem anymore! This one click code continou
 If you don't want to use the .exe version from the releases tab on the right; you'll have to install python and run below in cmd:
 
 	pip install pyautogui
+	pip install keyboard
 
 ## How To
 1. Install python & repo dependencies
