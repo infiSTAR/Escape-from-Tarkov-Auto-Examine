@@ -38,7 +38,7 @@ try:
 		if examine_item() == False:
 			showcase=locateOnScreen('img_samples/showcase.png', confidence=0.7)
 			if showcase != None:
-				scroll_length=random.randint(10,11) # recommended: Fence: 11 | Prapor, Skier, Peacekeeper, Mechanic, Ragman: 2
+				scroll_length=random.randint(10,11)
 				for __ in range(scroll_length):
 					barcoords=center(showcase)
 					moveTo(barcoords[0]+random.uniform(150,190), barcoords[1]+random.uniform(30,40))
