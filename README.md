@@ -8,6 +8,7 @@ If you don't want to use the .exe version from the releases tab on the right; yo
 	pip install pyautogui
 	pip install keyboard
 	pip install pillow --upgrade
+	pip install opencv-python
 
 ## How To
 1. Install python & repo dependencies
