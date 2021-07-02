@@ -29,7 +29,7 @@ If the bot scrolls too much for you or if you're not trying to use this bot on F
 
 This bot uses picture recognition, so if it errors out saying it can't find a picture you're unlucky. Your easiest way to get past this is by lowering the confidence(``confidence=0.9``) level of whatever picture wasn't found. If that didn't help and you're a tryhard and really want to use this, even though it can't find the pictures; you can go to the ``img_samples`` folder and check out each of those pictures and take your own versions of them(them all, or just the picture the code says it couldn't find), simply by screenshotting your client and cropping the required pictures just as I did. Then overwriting the orginal files in that folder, with your newly cropped versions. The images have to be .pngs. I've used https://www.iloveimg.com/crop-image to crop my images, it's a great tool to cut them so small.
 
-Intentionally refused to use the API, to lower ban risk to a minimum.
+Intentionally refused to use the API, to lower ban risk to a minimum. You could also rename the file itsself, to avoid detection even more.
 
 ![Picture 1](https://i.imgur.com/ooRNtK6.png)
 ![Picture 2](https://i.imgur.com/Vssjixm.png)
