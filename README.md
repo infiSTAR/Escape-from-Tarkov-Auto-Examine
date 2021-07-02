@@ -17,7 +17,7 @@ If you don't want to use the .exe version from the releases tab on the right; yo
 3. Rename the ``RENAME_ME.py`` file to anything random
 4. Open Escape from Tarkov
 5. Go to settings; you have to be on screen resolution 1920x1080 (16:9) and on borderless or windowed (if it still doesn't work, it's recommended that you copy my settings from the screenshot below)
-6. Go on any Traders showcase (works most efficiently on Fence with scroll length 11, other traders 2)
+6. Go on any Traders showcase (works most efficiently on Fence with scroll length 10,11, other traders 1,2)
 7. Click on EFT_Auto_Examine.py
 8. Leave it running as long as you wish to (the longer it runs the more items you'll have examined)
 9. Enjoy your day, while all items continously get auto examined for you
