@@ -52,12 +52,12 @@ try:
 					for image in ['img_samples/1.png','img_samples/topall.png']:
 						try:
 							click(center(locateOnScreen(image, confidence=0.7)))
+							s(random.uniform(1,2)) # tabs load up time
 						except Exception as e:
 							print(e)
 							output(2, 'Error','<light-red>','\nERROR: '+image+' not found. Read the additional knowledge paragraph on the github repo.\n')
 							s(15)
 							exit()
-						s(1)
 					runtime=0
 			elif showcase == None:
 				output(2, 'Error','<light-red>','ERROR: showcase.png not found. Read the additional knowledge paragraph on the github repo.\n')
