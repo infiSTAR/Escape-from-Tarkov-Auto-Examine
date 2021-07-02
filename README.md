@@ -1,4 +1,4 @@
-# Escape from Tarkov Auto Examine ![Stars](https://img.shields.io/github/stars/Avnsx/Escape-from-Tarkov-Auto-Examine?style=plastic&logo=appveyor) ![Downloads](https://img.shields.io/github/downloads/Avnsx/Escape-from-Tarkov-Auto-Examine/total?label=.exe%20downloads&style=plastic)
+# Escape from Tarkov Auto Examine ![Stars](https://img.shields.io/github/stars/Avnsx/Escape-from-Tarkov-Auto-Examine?style=flat-square) ![Downloads](https://img.shields.io/github/downloads/Avnsx/Escape-from-Tarkov-Auto-Examine/total?color=dark%20green&style=flat-square&logo=appveyor)
 ## Description
 New Account? EFT just wiped? Not a problem anymore! This one click code continously auto examines all items on a pre-selected Trader. Giving you free EXP & taking away the pain of having to examine items in raid. Not really detectable, you're safe to use this without being scared of getting banned.*
 
