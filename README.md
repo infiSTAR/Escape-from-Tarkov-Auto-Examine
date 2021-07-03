@@ -1,7 +1,7 @@
-# Escape from Tarkov Automatic Examine ![Stars](https://img.shields.io/github/stars/Avnsx/Escape-from-Tarkov-Auto-Examine?style=flat-square&label=⭐%20Stars&color=ffc83d) ![Downloads](https://img.shields.io/github/downloads/Avnsx/Escape-from-Tarkov-Auto-Examine/total?color=0078d7&label=🔽%20Compiled%20Version%20Downloads&style=flat-square)
+# Escape from Tarkov Auto Examine ![Stars](https://img.shields.io/github/stars/Avnsx/Escape-from-Tarkov-Auto-Examine?style=flat-square&label=⭐%20Stars&color=ffc83d) ![Downloads](https://img.shields.io/github/downloads/Avnsx/Escape-from-Tarkov-Auto-Examine/total?color=0078d7&label=🔽%20Compiled%20Version%20Downloads&style=flat-square)
 ![Sample](https://github.com/Avnsx/Escape-from-Tarkov-Auto-Examine/blob/main/eft_examine_sample.gif?raw=true)
 ## Description
-New Account? EFT just wiped? Not a problem anymore! This one click code continously auto examines all items on a pre-selected Trader. Giving you free EXP & taking away the pain of having to examine items in raid. This code will work really well for a big mass of users, but if you're interested in using this and don't read this Read Me file from the top to end you might aswell not download it in first place; there's too many things to pay attention to or mess up. It's not really detectable, it's entirely external you're safe to use this without being scared of getting banned.*
+New Account? EFT just wiped? Not a problem anymore! This one click code continously automatically examines all items on a pre-selected Trader. Giving you free EXP & taking away the pain of having to examine items in raid. This code will work really well for a big mass of users, but if you're interested in using this and don't read this Read Me file from the top to end you might aswell not download it in first place; there's too many things to pay attention to or mess up. It's not really detectable, it's entirely external you're safe to use this without being scared of getting banned.*
 
 ## Dependencies
 If you don't want to use the .exe version from the releases tab on the right; you'll have to install python and run below in cmd. The easiest way to do this is to hover with your mouse on the box below, go to the top right side press on the copy button and open cmd and ctrl+v.
@@ -21,7 +21,7 @@ If you don't want to use the .exe version from the releases tab on the right; yo
 6. Go on any Traders showcase (works most efficiently on Fence with scroll length 10,11, other traders 1,2)
 7. Click on EFT_Auto_Examine.py
 8. Leave it running as long as you wish to (the longer it runs the more items you'll have examined)
-9. Enjoy your day, while all items continously get auto examined for you
+9. Enjoy your day, while all items continously get automatically examined for you
 
 ## Additional Knowledge
 You can stop the bot any time by pressing and holding F2 for a couple seconds, or just closing its window.
