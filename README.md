@@ -15,7 +15,7 @@ If you don't want to use the .exe version from the releases tab on the right; yo
 ## How To
 1. Install python & repo dependencies
 2. If you don't use the .exe version download & unzip the github repo
-3. Rename the ``RENAME_ME.py`` file to anything random
+3. Rename the ``EFT_Auto_Examine.py`` file to anything random
 4. Open Escape from Tarkov
 5. Go to settings; you have to be on screen resolution 1920x1080 (16:9) and on borderless or windowed (if it still doesn't work, it's recommended that you copy my settings from the screenshot below)
 6. Go on any Traders showcase (works most efficiently on Fence with scroll length 10,11, other traders 1,2)
