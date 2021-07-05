@@ -16,7 +16,7 @@ def output(level,type,color,mytext):
     log.add(sys.stdout, format="<level>{level}</level> | <white>{time:HH:mm}</white> <level>|</level><light-white>| {message}</light-white>", level=type)
     log.type(mytext)
 
-output(1, 'Info','<light-yellow>','Developed by Avnsx on GitHub : https://github.com/Avnsx/Escape-from-Tarkov-Auto-Examine\n')
+output(1, 'Info','<light-yellow>','Developed by Avnsx on GitHub: https://github.com/Avnsx/Escape-from-Tarkov-Auto-Examine\n')
 output(None, 'Info','<light-yellow>','Starting... make sure a EFT Traders showcase is visible on your screen!')
 output(None, 'Info','<light-yellow>','You can press and hold Key F2 at any time to end.\n')
 s(random.uniform(3,5))
