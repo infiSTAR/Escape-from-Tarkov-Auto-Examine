@@ -11,6 +11,7 @@ If you don't want to use the .exe version from the releases tab on the right; yo
 	pip install pillow --upgrade
 	pip install opencv-python
 	pip install loguru
+	pip install tinyWinToast
 
 ## How To
 1. Install python & repo dependencies
